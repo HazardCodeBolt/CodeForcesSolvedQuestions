@@ -5,8 +5,15 @@
 
 <br> <br>
 
+## **Competitive Programming**
+**Competitive Programming** is a field in programming that requires a good knowledge in **algorithms**, **data structures** and **math**. It is all about solving questions the using an algorithm that will produce the desired output. There are international competitions like: 
+* [ICPC](https://icpc.global/) (International Collegiate Programming Competitions) 
+* [Google Coding Competitions](https://codingcompetitions.withgoogle.com/)
+* [Meta Coding Competitions](https://www.facebook.com/codingcompetitions)
+* [Microsoft Imagine Cup](https://imaginecup.microsoft.com/en-us/Events)
+
 ## **C++ Code Template**
-Here you can see a template code that you will be using in any problem you will solve in a website like [Codeforces](https://codeforces.com/). This template works when using `g++` as compiler. 
+Here you can see a template code that you will be using in any problem you will solve in a website like [Codeforces](https://codeforces.com/) and [Atcoder](https://atcoder.jp/). This template works when using `g++` as compiler. 
 ```c++
 // this include statement includes all STL libraries available
 #include <bits/stdc++.h>
