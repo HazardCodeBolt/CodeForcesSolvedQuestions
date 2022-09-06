@@ -6,7 +6,8 @@
 <br> <br>
 
 ## **Competitive Programming**
-**Competitive Programming** is a field in programming that requires a good knowledge in **algorithms**, **data structures** and **math**. It is all about solving questions the using an algorithm that will produce the desired output. There are international competitions like: 
+**Competitive Programming** is a field in programming that requires a good knowledge in **algorithms**, **data structures** and **math**. It is all about solving questions the using an algorithm that will produce the desired output. [Here](./competitive%20programming.pdf) I attach a book that gives a juicy information about algorithms and math for competitve programming . There are international competitions like:
+
 * [ICPC](https://icpc.global/) (International Collegiate Programming Competitions) 
 * [Google Coding Competitions](https://codingcompetitions.withgoogle.com/)
 * [Meta Coding Competitions](https://www.facebook.com/codingcompetitions)
